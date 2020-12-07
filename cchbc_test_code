@@ -1,1 +1,2 @@
 dat = data.frame(a = rnorm(10), b = rnorm(10))
+dat_1 = data.frame(a = rnorm(30), b = rnorm(10))
