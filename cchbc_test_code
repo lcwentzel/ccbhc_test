@@ -1,0 +1,1 @@
+dat = data.frame(a = rnorm(10), b = rnorm(10))
